@@ -2,6 +2,14 @@
 
 buildscript {
     ext.kotlin_version = '1.1.51'
+    ext.support_library = '26.1.0'
+    ext.constraint_layout = '1.0.2'
+    ext.room = '1.0.0'
+
+    ext.junit = "4.12"
+    ext.test_runner = "1.0.1"
+    ext.espresso_core = "3.0.1"
+
     repositories {
         google()
         jcenter()
