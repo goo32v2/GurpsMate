@@ -3,6 +3,7 @@ package com.goo32v2.gurpsmate.screens.profile
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
+import com.goo32v2.gurpsmate.R
 import kotlinx.android.synthetic.main.activity_character.*
 
 class CharacterActivity : AppCompatActivity() {
